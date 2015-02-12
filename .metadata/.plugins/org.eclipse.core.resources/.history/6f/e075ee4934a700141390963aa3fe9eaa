@@ -1,0 +1,7 @@
+package testing;
+
+public abstract class TestElement {
+	
+	abstract boolean runTest();
+
+}

@@ -1,0 +1,20 @@
+package testing;
+
+import java.util.*;
+
+public class Service {
+	
+	private String path;
+	
+	private String method;
+	
+	private Vector parameters;
+	
+	private Response response;
+	
+	
+	public Response getResponse() {
+		return response;
+	}
+
+}
