@@ -1,0 +1,36 @@
+Modelo de Informe:
+
+1) Introduciion
+	Se pone algo similar a lo que va en el plan
+	mas lo realizado 
+	Cambiando el tiempo verbal pasado (se realizo, se implemento ...)
+
+2) Marco Teorico (Trabajos relacionados)
+	Explicacion de REST
+	Que herramientas hay
+	Indicar que es lo que falta, y cual es el problema que vamos a resolver
+	Las explicaciones en esta sección deben estar dirigidas a personas que no conocen el tema
+
+3) Propuesta
+	Es un diseño a alto nivel con diagramas explicando la implementacion realizada
+
+4) Implementacion
+	Explicacion mas detallada
+	Incluyendo tecnologias, diagramas de clases, casos de uso
+	Va el codigo?
+
+5) Caso de Prueba
+	Implementacion en un entorno real: SPAMINA
+	Explicar caso
+	Resultado obtenido: Estadisticas de como mejoró al aplicar esta solucion
+
+6) Conclusiones
+	Conclusion
+	Limitaciones: es lo que no hace el sistema implementado (parte se agrega a trabajos futuros)
+	Trabajos futuros: es lo que falto agregar o lo que se podria mejorar que quedaria pendiente a desarrollar
+
+7) Referencias
+	Hay que referenciar todo lo que se escribe
+	Todo lo agregado al informe debe probarse o agregar la referencia de quien lo dijo
+	Cuando son cosas obvias se pueden poner mas de una referencias, ejemplo: REST es muy usado, porque lo dice este Papper, este otro, y este otro, etc...
+	Las referencias pueden ser: Papers, Libros, Paginas de autores de herramientas, Revistas.

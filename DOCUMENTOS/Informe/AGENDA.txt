@@ -1,0 +1,20 @@
+- Consultar patrones de diseño: >>> INCLUIR AL INFORME!!!!
+	MVC	
+	Composite (Vista compuesta)
+	Command 
+	Factory Method
+	Strategy (relacion entre vista y controlador)
+	Decorator
+
+- Crear Diagrama de Clases, tener en cuenta: >>> INCLUIR AL INFORME!!!!
+	Casos como Composite con casos comunes, casos compuestos y casos IF
+	Utilizar Vectores o Hash para parametos y validadores de resultados
+	Utilizar patron de diseño command para la parte de ejecución de los TC 
+	Crear un componente que lea el JSON o XML y lo convierta a Objeto
+	Por el momento no usar REST-Assured sino que utlizar validador de String (Arreglo de String)
+
+- Escribir Informe
+	Marco Teorico (Cap 2)
+
+- Escribir Presentación
+
